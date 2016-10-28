@@ -1,0 +1,5 @@
+Mon Sep 12 08:43:25 [info](PID:7003) Prepare to log in "logfile.txt" ok.
+Mon Sep 12 08:43:25 [info](PID:7003) create serv-listenfd ok 0.0.0.0:9877
+Mon Sep 12 08:43:47 [error](PID:7011) something may be wrong during handling
+Mon Sep 12 08:43:47 [error](PID:7011) something may be wrong during handling
+Mon Sep 12 08:44:12 [error](PID:7011) something may be wrong during handling

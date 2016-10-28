@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+struct Test{
+    int i;
+    char c;
+};
+
+int main()
+{
+    Test t = {23,17};
+    cout<<t.i<<endl<<t.c<<endl;
+    return 0;
+
+}
